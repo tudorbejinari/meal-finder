@@ -7,3 +7,4 @@
 * Display meals in DOM with image and hover effect
 * Click on meal and see the details
 * Click on generate button and fetch & display a random meal
+![img](https://github.com/tudorbejinari/meal-finder/blob/master/meal.png)
